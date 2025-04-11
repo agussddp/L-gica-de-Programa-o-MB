@@ -1,0 +1,25 @@
+05 - Algoritmo para tomar banho
+
+Pegue as roupas que colocara pos banho
+Vá para um banheiro
+Coloque a toalha estendida em um gancho
+Tire sua roupa
+Se tiver roupa suja deixe separada do resto das roupas
+As roupas limpas deixe dobrada em um canto
+Abra o chuveiro
+Entre no box
+Feche a porta do box
+Molhe seu corpo todo
+Com o cabelo umido pegue o shampoo
+Passe o shampoo no cabelo
+Esfregue bem o cabelo com o produto
+Enxague o cabelo
+Com o cabelo enxaguado pegue o condicionador
+Passe o produto nas pontas do cabelo
+Pegue o sabonete
+Pegue a bucha
+Passe o sabonete na bucha
+Passe a bucha em seu corpo
+Enxague seu corpo, tirando o sabao
+Depois de 5 minutos enxague o seu cabelo
+Com o cabelo e corpo enxaguados desligue o chuveiro, terminando seu banho

@@ -1,0 +1,17 @@
+02 - Algoritmo para fazer um café em uma cafeteira de filtro de papel
+
+Pegue a cafeteira
+Coloque a maquina e um ambiente que tenha espaço
+Pegue uma caneca 
+Coloque a quantidade de agua que ira usar dentro da caneca
+Leve ate o fogão
+Coloque o filtro em sua maquina
+Pegue o pó de café
+Pegue uma colher para colocar o pó do café 
+Coloque a quantidade de café que sera necessária
+Pegue a agua fervendo da caneca
+Despeje a agua no filtro com o café 
+Assim que o café estiver pronto pegue o filtro
+Abra o lixo
+Jogue o filtro fora
+ 

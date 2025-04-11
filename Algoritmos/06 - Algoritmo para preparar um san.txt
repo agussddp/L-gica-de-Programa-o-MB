@@ -1,0 +1,12 @@
+06 - Algoritmo para preparar um sanduíche
+
+Vá para a cozinha
+Pegue duas fatias de pao 
+Pegue no armário o necessário para seu lanche
+Pegue na geladeira o necessário para seu lanche
+Passe manteiga em uma das fatias
+Coloque um pedaço de queijo
+Coloque um pedaço de presunto
+Coloque duas folhas de salada
+Pegue a fatia do pao que não te nada
+Coloque por cima da fatia com os recheios, assim finalizando seu sanduiche 

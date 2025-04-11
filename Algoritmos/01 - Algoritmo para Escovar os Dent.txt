@@ -1,0 +1,13 @@
+01 - Algoritmo para Escovar os Dentes
+
+Va para o banheiro
+pare na frente da pia
+pegue sua escova
+abra a pasta de dente
+coloque a pasta na escova
+leve a escova ate a saída de agua da torneira
+ligue a torneira
+molhe a escova junto da pasta
+deslige a torneira 
+leve a escola ate sua boca
+escove seus dentes

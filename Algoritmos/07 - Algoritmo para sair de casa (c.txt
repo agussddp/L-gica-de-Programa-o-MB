@@ -1,0 +1,25 @@
+07 - Algoritmo para sair de casa (checar chaves, carteira, celular etc.)
+
+Se arrume com uma roupa confortável
+Organize seus itens necessários
+Coloque seu celular para carregar
+Deixe as chaves em lugar com fácil acesso
+Coloque a carteira perto das chaves
+Quando estiver pronto para sair de casa pegue o celular
+Caminhe até a porta
+Pegue suas chaves e carteira
+Destranque a porta
+Abra a porta
+Saia da casa
+Feche a porta
+Tranque a porta
+Verifique se todos os itens necessários estão com voce 
+Se sim, saia de casa tranquilo
+Se não, destranque a porta
+Abra a porta 
+Entre na casa
+Pegue o item esquecido
+Volte para a porta
+Saia de casa
+Feche a porta
+Tranque a porta, assim saindo de casa tranquilo

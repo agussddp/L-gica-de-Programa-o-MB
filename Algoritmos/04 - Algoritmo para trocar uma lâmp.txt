@@ -1,0 +1,18 @@
+04 - Algoritmo para trocar uma lâmpada
+
+Veja a marca da lâmpada que precisa ser trocada
+Vá até uma loja que tenha a marca da lâmpada que precisa
+Volte para a casa
+Desligue a energia
+Pegue uma escada ou banco para facilitar a troca da lâmpada
+Dependendo do tipo de luminária ou lustre, pode ser necessário remover uma tampa, cúpula ou algum tipo de proteção para saber como trocar lâmpada
+Remova a lâmpada 
+Coloque ela em um lugar proximo
+Pegue a lâmpada nova
+Instale a nova lâmpada
+Ligue a energia
+Verifique se a lâmpada nova esta funcionando
+Se funcionar está concluida a troca da lâmpada
+
+
+
