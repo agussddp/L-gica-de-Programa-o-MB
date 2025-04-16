@@ -1,0 +1,25 @@
+08 - Algoritmo para finalizar o ambiente antes de ir embora do SENAI (desligar, limpar e guardar os notebooks e mouse).
+
+Desligo o notebook
+Desconecto os cabos do notebook
+Pego o mouse
+Tiro o conector do mouse do computador
+Guardo o conector no mouse
+Fecho o mouse
+Pego um pano
+Espirro álcool no pano
+Limpo a tela do notebook
+Limpo as teclas do computador
+Fecho o computador
+Limpo a parte de fora do computador
+Limpo o mouse
+Espero o numero do meu mouse ser chamado
+Quando chamado guardo meu mouse
+Depois guardo meu computador
+Volto para a mesa
+Arrumos os cabos
+Verifico se não tem papeis no chao 
+Me levanto da cadeira
+Arrumo a cadeira em seu devido lugar 
+Pego minha mochila
+Saio da sala
