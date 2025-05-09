@@ -17,23 +17,23 @@ void setup()
 void loop()
 {
   Serial.println("Digite o primeiro numero");
-	while (!Serial.available());
-	numero1 = Serial.parseFloat();
+  while (!Serial.available());
+  numero1 = Serial.parseFloat();
   
   Serial.println("Digite o segundo numero");
-	while (!Serial.available());
-	numero2 = Serial.parseFloat();
-  
+  while (!Serial.available());
+  numero2 = Serial.parseFloat();
   
   
   if (numero1 > numero2){
     Serial.println("Maior numero: " + String(numero1));
     Serial.println();
-  }
-    else {
+}
+    
+   else {
    Serial.println("Maior numero: " + String(numero2));
-    Serial.println();
-    }
+   Serial.println();
+}
   
   
   
